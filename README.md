@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on any web development and app development projects
 - 💬 Ask me about anything related to tech, books and South Indian food
 - 📃 Find my resume [here](https://drive.google.com/file/d/1sUsupiFAqWw5bTl8UzntpPzGMNOj7xLy/view)
+- 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanchithasharma.sanchithasharma)
 
@@ -19,23 +20,15 @@
 [![Medium Badge](https://img.shields.io/badge/-@sanchithasr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://sanchithasr.medium.com/)](https://medium.com/@sanchithasr)
 [![Gmail Badge](https://img.shields.io/badge/-sanchitha.s.r@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&link=mailto:sanchitha.s.r@gmail.com)](mailto:sanchitha.s.r@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@SrSanchitha-1DA1F2?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/srsanchitha)](https://twitter.com/srsanchitha)
-    
-<!--[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)  -->
+
+## 💻 Some stats
+
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanchithasharma&theme=tokyonight">
+</p>
 
 
 
-<!--
-**Sanchithasharma/sanchithasharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
