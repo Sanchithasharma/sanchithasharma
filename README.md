@@ -1,10 +1,7 @@
-## Hey 👋 
+## Hey 👋 I am Sanchitha SR
 
-### Welcome to my Github page. I am Sanchitha SR
-
-#### Glad to see you here. I am a full-time software engineer who loves to write about Programming. I am a music junkie and love to read books.
+#### Welcome to my Github page. Glad to see you here. I am a full-time software engineer who loves to write about Programming. I am a music junkie and love to read books. 
   
-
 ### 📬 Where to find me
     
 
