@@ -1,7 +1,7 @@
 ## Hello 👋 I am [Sanchitha](https://main.d2ocnfsuoopm8b.amplifyapp.com/Contact)
 
 #### Welcome to my Github page.
- I am a full-time software engineer who is passionate about programming. I am a bibliophile and a music junkie. I love to travel, learn new things and explore different food. 
+ I am a full-time software engineer who is passionate about programming. I am a bibliophile and a music junkie.
 #### I mostly work with Front-end technologies like Angular, Vue etc. I have a little experience with Node.js as well. I am currently learning about Mobile App development.
 
 - 😄 Pronouns: She/Her
