@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning *Mobile App development*, *Data Strucrures* and *Algorithms*.
 - 👯 I’m looking to collaborate on any web development and app development projects
 - 💬 Ask me about anything related to tech, books and South Indian food
-- 📃 Find my resume [here](https://drive.google.com/file/d/1iaetFiddj0Yg6_xlXz339eq_OyIJQ4sZ/view?usp=drivesdk)
+- 📃 Find my resume [here](https://drive.google.com/file/d/1faF1qmO2-tVTHOSM2jlRHIDhFbw1zypm/view?usp=sharing)
 - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanchithasharma.sanchithasharma)
