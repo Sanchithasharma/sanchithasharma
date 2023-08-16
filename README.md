@@ -1,15 +1,13 @@
 ## Hello 👋 I am [Sanchitha](https://main.d2ocnfsuoopm8b.amplifyapp.com/Contact)
 
 #### Welcome to my Github page.
- I am a full-time software engineer who is passionate about programming. I am a bibliophile and a music junkie.
+ I am a full-time software engineer who is passionate about programming.
 #### I mostly work with Front-end technologies like Angular, Vue etc. I have a little experience with Node.js as well. I am currently learning about Mobile App development.
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on *Vue.js*.
-- 🌱 I’m currently learning *Mobile App development*, *Data Strucrures* and *Algorithms*.
+- 🌱 I’m currently learning *Python for Finance*, *Data Strucrures* and *Algorithms*.
 - 👯 I’m looking to collaborate on any web development and app development projects
-- 💬 Ask me about anything related to tech, books and South Indian food
-- 📃 Find my resume [here](https://drive.google.com/file/d/1faF1qmO2-tVTHOSM2jlRHIDhFbw1zypm/view?usp=sharing)
 - 🖋️ I write tech blogs on [Medium](https://sanchithasr.medium.com/) and [DEV Community](https://dev.to/sanchithasr)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanchithasharma.sanchithasharma)
